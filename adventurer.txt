@@ -1,0 +1,3 @@
+Potion,item,1.2
+Rusty,weapon,4.7,Sword,54,33
+Chestplate,armor,20,Steel,55,10

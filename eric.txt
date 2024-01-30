@@ -1,0 +1,1 @@
+Ex,weapon,4.5,Sword,55,55
